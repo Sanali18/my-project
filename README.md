@@ -7,7 +7,8 @@ This repository contains Python scripts with simple functions, such as:
 
 ## Branching Strategy
 - `main`: The main branch containing stable code.
-- `new-feature`: A branch where new features are developed before merging.
+- `feature-branch`: A branch where new features are developed before merging.
+- `new-branch`: A branch where new features are developed before merging.
 
 ## How to Use
 Clone the repo and run `UOM139D.py` to test the functions.
