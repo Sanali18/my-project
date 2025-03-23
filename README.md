@@ -1,7 +1,5 @@
 # my-project
 
-# My Project
-
 This repository contains Python scripts with simple functions, such as:
 - Greeting function
 - Square function
